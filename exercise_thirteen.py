@@ -8,3 +8,5 @@ for i in range (1,11):
     # Create inner loop to iterate ten times as well
     for j in range (1,11):
         print ( i * j)
+    # Add new tab to display result properly
+        print ("\t")
